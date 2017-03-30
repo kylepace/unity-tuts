@@ -11,6 +11,7 @@ public class HealthManager : MonoBehaviour {
 
     private int health;
 
+
 	// Use this for initialization
 	void Start () {
 		health = hearts.Length;
